@@ -1,1 +1,1 @@
-Python Code Of Text Based Madlibs Game
+Python Code of Text Based Madlibs Game
