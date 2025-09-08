@@ -1,1 +1,1 @@
-3 Examples of Python Code for Text Based Madlibs Games
+2 Examples of Python Code for Madlibs Games
